@@ -1,0 +1,20 @@
+Mod Commands
+n@ban [user] - Ban User
+n@kick [user] - Kick User
+n@warn [points] [user] - Warn User
+n@setlog [channel] - Set Log
+n@setmodrole [role] - Owner Only, set which role can use mod commands
+n@manpoints [points] - Server Owner Only, set max points for warnings
+n@pingmods [reason] - Ping Mods who aren't offline
+
+Profile Commands
+n@profile [user (optional)] - View your profile
+n@marry [user] - Marry up to 2 users
+n@divorce [user] - Time to break someone heart
+n@leaderboard [amount (Optional)] - See who has the most money
+n@setabout - Set about message for profile
+n@setcolor - Set Profile embed color with html color code
+n@pickanum - Pick-a-num is a game you could play to unlock money and achievements!
+
+Other Commands
+n@ping - Pong!
